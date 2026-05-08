@@ -1,16 +1,27 @@
-## Hi there 👋
+# Romain Pinède | Reprise d’études en informatique
 
-<!--
-**romainpinede/romainpinede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ancien étudiant en tronc commun scientifique à l’UTT, je suis actuellement en reprise d’études en informatique.
 
-Here are some ideas to get you started:
+Je développe des projets orientés Python, backend, automatisation et gestion de données afin de consolider les bases nécessaires à une entrée en L2 informatique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets principaux
+
+### Return Tracker
+
+Application Flask permettant de suivre les retours produits d'une boutique en ligne à partir de fichiers CSV.
+
+Le projet est construit progressivement :
+
+- Version 1 : suivi simple des retours produits ;
+- Version 2 : ajout d'une page de statistiques pour analyser les retours.
+
+Repository : [return-tracker](https://github.com/romainpinede/return-tracker)
+
+## Outils et technologies
+
+- Python
+- JavaScript
+- Flask
+- algorithmique
+- bases de données
+- Git
