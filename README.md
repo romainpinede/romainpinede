@@ -1,8 +1,6 @@
 ## Romain Pinède
 
-Ancien étudiant en tronc commun scientifique à l’UTT, je suis actuellement en reprise d’études en informatique.
-
-Je souhaite intégrer une école d’ingénieurs en deuxième année de cycle préparatoire intégré, afin de construire un parcours cohérent orienté vers les technologies de l’information et le développement logiciel.
+Ayant validé une année de tronc commun scientifique en école d’ingénieurs à l’UTT, je souhaite reprendre mon cursus d’ingénieur en deuxième année de cycle préparatoire intégré, afin de construire un parcours cohérent orienté vers les technologies de l’information et le développement logiciel.
 
 ## **Projets principaux**
 
