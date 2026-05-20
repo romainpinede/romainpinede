@@ -2,7 +2,7 @@
 
 Ancien étudiant en tronc commun scientifique à l’UTT, je suis actuellement en reprise d’études en informatique.
 
-Je souhaiterais intégrer la deuxième année du cycle préparatoire intégré du Programme Grande École Ingénieurs de l’Efrei, avec l’objectif de construire un parcours orienté vers les technologies de l’information et le développement logiciel.
+Je souhaite intégrer une école d’ingénieurs en deuxième année de cycle préparatoire intégré, afin de construire un parcours cohérent orienté vers les technologies de l’information et le développement logiciel.
 
 ## **Projets principaux**
 
