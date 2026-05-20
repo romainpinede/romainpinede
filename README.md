@@ -1,27 +1,28 @@
-# Romain Pinède | Reprise d’études en informatique
+## Romain Pinède
 
 Ancien étudiant en tronc commun scientifique à l’UTT, je suis actuellement en reprise d’études en informatique.
 
-Je développe des projets orientés Python, backend, automatisation et gestion de données afin de consolider les bases nécessaires à une entrée en L2 informatique.
+Je souhaiterais intégrer la deuxième année du cycle préparatoire intégré du Programme Grande École Ingénieurs de l’Efrei, avec l’objectif de construire un parcours orienté vers les technologies de l’information et le développement logiciel.
 
-## Projets principaux
+## **Projets principaux**
 
 ### Return Tracker
 
-Application Flask permettant de suivre les retours produits d'une boutique en ligne à partir de fichiers CSV.
+Application web de suivi des retours produits à partir de fichiers CSV.
 
-Le projet est construit progressivement :
+- V1 : suivi simple des retours ;
+- V2 : ajout de statistiques par produit.
 
-- Version 1 : suivi simple des retours produits ;
-- Version 2 : ajout d'une page de statistiques pour analyser les retours.
+Repository : [`return-tracker`](https://github.com/romainpinede/return-tracker-v2)
 
-Repository : [return-tracker](https://github.com/romainpinede/return-tracker)
+### Gestion de stock SEO
 
-## Outils et technologies
+Application web de prévision de réapprovisionnement à partir d’exports Shopify et GA4.
 
-- Python
-- JavaScript
-- Flask
-- algorithmique
-- bases de données
-- Git
+Le projet estime les jours avant rupture et les quantités à commander selon les ventes organiques, le stock actuel et une correction saisonnière.
+
+Repository : [gestion-stock-seo-v1](https://github.com/romainpinede/gestion-stock-seo-v1)
+
+## Technologies
+
+Python · Flask · HTML/CSS · CSV · Javascript · Algorithmique · Gestion de données · Git/GitHub
