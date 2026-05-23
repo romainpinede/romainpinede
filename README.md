@@ -23,4 +23,4 @@ Repository : [gestion-stock-seo-v1](https://github.com/romainpinede/gestion-stoc
 
 ## Technologies
 
-Python · Flask · HTML/CSS · CSV · Javascript · Algorithmique · Gestion de données · Git/GitHub
+Python · C/C++ · Flask · HTML/CSS · CSV · Javascript · Algorithmique · Gestion de données · Git/GitHub
